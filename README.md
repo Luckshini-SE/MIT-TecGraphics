@@ -18,7 +18,7 @@ https://github.com/Luckshini-SE/MIT-TecGraphics
 
 **js** - javascript files required for the back-end operations management system.
 
-**PHPMailer** - configuration files of PHPMailer function which is used for sending emails.
+**PHPMailer** - script files of PHPMailer function which is used for sending emails.
 
 **script files** - PHP script files of the website and back-end system.
 
